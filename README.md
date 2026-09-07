@@ -2,3 +2,4 @@
 FluidX 是一个UE5.8开发的NiagaraGPU交互水系统,基于浅水方程算法，依赖网格体距离场实现水面障碍物检测和水波自动生成。
 使用说明：
 将BP_FluidX_Water放入场景即可，如需焦散，则需要把水下的场景打包为Actor，添加AC_CausticsDMICreator组件，并在场景大纲中选择组件，指定BP_FluidX的默认值为要关联焦散的水体BP_FluidX_WaterActor实例。
+<img width="2465" height="1304" alt="image" src="https://github.com/user-attachments/assets/94f8d4b6-237e-4525-ad46-366c00e412e2" />
